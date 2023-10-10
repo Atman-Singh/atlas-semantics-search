@@ -1,10 +1,6 @@
-from gensim.test.utils import common_texts
 import os
-from langchain.text_splitter import CharacterTextSplitter
-import itertools
 import operator as op
 import time
-import threading
 import numpy
 
 def main():
